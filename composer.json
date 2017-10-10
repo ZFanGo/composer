@@ -1,0 +1,14 @@
+{
+    "name": "zhangfan/testcom",
+    "description": "test projhext",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhangfan",
+            "email": "armzx@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
